@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color:fuchsia;
+}
+
+div{
+    height: 150px;
+    width: 35%;
+    background-color:bisque;
+    margin: 19% auto;
+}
+
+h1{
+    color: blue;
+}
